@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hina Ioane
+### Chaminade Undergraduate
+#### Environmental Science Major and Environmental Studies Minor 🌱
 
 <!--
 **Hinaioane/Hinaioane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
